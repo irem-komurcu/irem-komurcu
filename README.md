@@ -1,6 +1,6 @@
 ### Hi there, I am İrem 👋
 - 🌱 I love Computer Vision! 
-- 🔭 I’m currently working at Global AI Hub
+- 🔭 I am a Data Scientist at Deloitte 
 
 ## Connect with me  
 <a href="https://github.com/irem-komurcu" target="_blank">
