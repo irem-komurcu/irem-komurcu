@@ -29,7 +29,7 @@ Specifically, I was working on Computer Vision projects and right now, I am deve
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> &nbsp;
 
-<a href="https://www.medium.com/iremkomurcubm/?hl=tr" target="_blank">
+<a href="https://www.medium.com/iremkomurcu/?hl=tr" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green alt=medium style="margin-bottom: 5px;" />
 </a> &nbsp;
 
