@@ -11,15 +11,21 @@
 
 <p align="center">
 <br>
-🙌 <br>
-I have been working professionally in the field of Deep Learning for 3 years.
-Specifically, I was working on Computer Vision projects and right now, I am developing Data Science projects
+
+<h2 align="center">
+Who am I 👀 
+</h2>
+I have been working professionally in the field of Deep Learning for 3 years. Specifically, I was working on Computer Vision projects and right now, I am developing Data Science projects. Also, I experienced Cloud ML on AWS and Google Cloud. I have more than 5 years of community experience with public speaking, blogging and experience-sharing skills.
 </p>
-  
-## Connect with me  
+<center>
+<br>
+
+<h2 align="center">
+Connect with me 
+</h2>
 <p align="center">
   You can visit my social media accounts, <b>read my blog posts</b>, watch my videos and learn more about me through the site. Don't forget to visit my social media accounts below to get to know me. <br>
-🕸️ <a href="https://iremkomurcu.com/">iremkomurcu.com</a> 🕸️
+🌿 <a href="https://iremkomurcu.com/">iremkomurcu.com</a> 🌿
 
 </p>  
 <br>
